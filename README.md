@@ -4,7 +4,7 @@ The project consists of three parts:
 
 1. Physics Engine
 
-  This is essentially a C++ library that handles 2D mechanics. Using this library, clients may develop ASCII art games that can be played over Linux terminal.
+  This is essentially a C++ library that handles 2D mechanics. Using this library, clients may develop ASCII art games that can be played over terminal.
 
 2. The First ASCII Art Game : Air
 
